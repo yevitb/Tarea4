@@ -1,3 +1,3 @@
 # Tarea4
 
-*** Fernández Martínez Abisinia Ivey ***
+* Fernández Martínez Abisinia Ivey *
